@@ -1,5 +1,5 @@
 <template>
-  <Tutorial/>
+  <h1>修正したよ！</h1>
 </template>
 
 <script>
